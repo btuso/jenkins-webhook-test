@@ -1,1 +1,1 @@
-echo "Yay!"
+echo "Ugh!"
