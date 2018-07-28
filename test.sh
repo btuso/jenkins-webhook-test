@@ -1,1 +1,1 @@
-echo "Yay? Yay!"
+echo "Yay!"
